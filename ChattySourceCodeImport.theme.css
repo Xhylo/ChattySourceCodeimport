@@ -1254,3 +1254,12 @@ box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.8);
 .perk-2WeBWW {
 box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.8);
 }
+.wrapper-2qzCYF {
+    z-index: 2;
+    position: relative;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    background-color: transparent !important;
+    overflow: hidden;
+}
